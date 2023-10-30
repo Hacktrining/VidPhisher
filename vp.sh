@@ -586,7 +586,7 @@ $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Video Phishing tool]
 $red[Author]     ${cyan} :[A Mohan]
 $red[Github]     ${cyan} :[https://github.com/Hacktrining]
-$red[Messenger]  ${cyan} :[https://www.instagram.com/alone__rider__rc_390/]
+$red[Instagram]  ${cyan} :[https://www.instagram.com/alone__rider__rc_390/]
 $red[Email]      ${cyan} :[mohan63025@gmail.com]"
         printf "$vp_prompt"
         read about
